@@ -1,4 +1,4 @@
-This page is about the research on phase-field methods at the Camille Jordan Institue (ICJ) of the University of Lyon 1, France.
+This page is about the research on phase-field methods at the [Camille Jordan Institute (ICJ) of the University of Claude-Bernard Lyon 1, France](http://math.univ-lyon1.fr/?lang=en).
 
 # Last article
 
